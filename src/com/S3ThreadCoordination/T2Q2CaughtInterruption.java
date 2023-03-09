@@ -1,4 +1,4 @@
-package com.ppm.java.S3ThreadCoordination;
+package com.S3ThreadCoordination;
 
 /*
     The application won't stop by the interruption.

@@ -1,4 +1,4 @@
-package com.ppm.java.S2ThreadCreation;
+package com.S2ThreadCreation;
 
 public class T3Quest {
     public static void main(String[] args) {

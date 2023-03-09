@@ -1,4 +1,4 @@
-package com.ppm.java.S3ThreadCoordination;
+package com.S3ThreadCoordination;
 
 public class T1Interruption {
 

@@ -1,4 +1,4 @@
-package com.ppm.java.S3ThreadCoordination;
+package com.S3ThreadCoordination;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

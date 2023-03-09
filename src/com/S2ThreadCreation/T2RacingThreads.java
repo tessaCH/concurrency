@@ -1,4 +1,4 @@
-package com.ppm.java.S2ThreadCreation;
+package com.S2ThreadCreation;
 
 import java.util.ArrayList;
 import java.util.List;
